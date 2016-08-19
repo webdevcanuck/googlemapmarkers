@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Vaughan Metropolitan Centre Subway Station",
+        "Point": {
+            "coordinates": "-79.5277977,43.7947032,0.0"
+        }
+    },
+    {
+        "name": "Hwy. 407 Subway Station",
+        "Point": {
+            "coordinates": "-79.5252228,43.7828067,0.0"
+        }
+    },
+    {
+        "name": "Father Bressani Catholic High School",
+        "Point": {
+            "coordinates": "-79.56440099999998,43.79815499999999,0.0"
+        }
+    },
+    {
+        "name": "St. Clement Catholic Elementary School",
+        "Point": {
+            "coordinates": "-79.60865160000003,43.7855156,0.0"
+        }
+    },
+    {
+        "name": "St. Andrew",
+        "Point": {
+            "coordinates": "-79.61216589999998,43.81838749999999,0.0"
+        }
+    },
+    {
+        "name": "St. Clare Catholic Elementary School",
+        "Point": {
+            "coordinates": "-79.56209999999999,43.81837789999999,0.0"
+        }
+    },
+    {
+        "name": "St. Agnes of Assisi",
+        "Point": {
+            "coordinates": "-79.56185199999999,43.829862,0.0"
+        }
+    },
+    {
+        "name": "Pierre Berton Public School",
+        "Point": {
+            "coordinates": "-79.5765915,43.8355972,0.0"
+        }
+    },
+    {
+        "name": "Tommy Douglas Secondary School",
+        "Point": {
+            "coordinates": "-79.56806169999999,43.8438975,0.0"
+        }
+    },
+    {
+        "name": "Lorna Jackson Public School",
+        "Point": {
+            "coordinates": "-79.62068640000001,43.8223698,0.0"
+        }
+    },
+    {
+        "name": "Montessori School of Kleinburg",
+        "Point": {
+            "coordinates": "-79.6306927,43.84218819999999,0.0"
+        }
+    }
+]
+                

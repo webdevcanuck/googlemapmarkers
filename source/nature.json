@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Paul Martel Park",
+        "styleUrl": "#icon-seq-1-0-nodesc",
+        "Point": {
+            "coordinates": "-79.40324269999996,43.66754299999999,0.0"
+        }
+    },
+    {
+        "name": "Taddle Creek Park",
+        "styleUrl": "#icon-seq-1-1-nodesc",
+        "Point": {
+            "coordinates": "-79.39844310000001,43.6698599,0.0"
+        }
+    },
+    {
+        "name": "Village of Yorkville Park",
+        "styleUrl": "#icon-seq-1-2-nodesc",
+        "Point": {
+            "coordinates": "-79.39167800000001,43.6700355,0.0"
+        }
+    },
+    {
+        "name": "Ramsden Park",
+        "styleUrl": "#icon-seq-1-3-nodesc",
+        "Point": {
+            "coordinates": "-79.38962229999998,43.6764023,0.0"
+        }
+    },
+    {
+        "name": "Heliconian Club",
+        "styleUrl": "#icon-seq-1-4-nodesc",
+        "Point": {
+            "coordinates": "-79.39337319999998,43.6718303,0.0"
+        }
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Market Lane Shopping Centre",
+        "Point": {
+            "coordinates": "-79.59335469999996,43.7856526,0.0"
+        }
+    },
+    {
+        "name": "Vaughan Mills",
+        "Point": {
+            "coordinates": "-79.53859,43.825424,0.0"
+        }
+    },
+    {
+        "name": "Smartcentres Woodbridge",
+        "Point": {
+            "coordinates": "-79.55296820000001,43.78914289999999,0.0"
+        }
+    },
+    {
+        "name": "RioCan Colossus Centre",
+        "Point": {
+            "coordinates": "-79.54397660000001,43.7867029,0.0"
+        }
+    },
+    {
+        "name": "Costco Wholesale",
+        "Point": {
+            "coordinates": "-79.54141870000001,43.7856311,0.0"
+        }
+    },
+    {
+        "name": "Best Buy",
+        "Point": {
+            "coordinates": "-79.54904379999999,43.7922476,0.0"
+        }
+    },
+    {
+        "name": "Walmart Vaughan Supercentre",
+        "Point": {
+            "coordinates": "-79.53078240000002,43.79653760000001,0.0"
+        }
+    },
+    {
+        "name": "Luxy Club",
+        "Point": {
+            "coordinates": "-79.53176080000003,43.7888273,0.0"
+        }
+    },
+    {
+        "name": "Dave & Buster's",
+        "Point": {
+            "coordinates": "-79.53525139999999,43.7887593,0.0"
+        }
+    },
+    {
+        "name": "IKEA Vaughan",
+        "Point": {
+            "coordinates": "-79.52934429999999,43.7873069,0.0"
+        }
+    },
+    {
+        "name": "The Home Depot",
+        "Point": {
+            "coordinates": "-79.54622569999998,43.7924938,0.0"
+        }
+    },
+    {
+        "name": "Vinnie Zucchini's Italian Eatery",
+        "Point": {
+            "coordinates": "-79.5349726,43.82861049999999,0.0"
+        }
+    },
+    {
+        "name": "Marcello's Pizzeria",
+        "Point": {
+            "coordinates": "-79.53589999999997,43.8281812,0.0"
+        }
+    },
+    {
+        "name": "The Keg Steakhouse & Bar",
+        "Point": {
+            "coordinates": "-79.53988900000002,43.82959090000001,0.0"
+        }
+    },
+    {
+        "name": "AllStar Wings & Ribs",
+        "Point": {
+            "coordinates": "-79.5345835,43.83080330000001,0.0"
+        }
+    },
+    {
+        "name": "Fab's No Frills",
+        "Point": {
+            "coordinates": "-79.55394409999997,43.8269634,0.0"
+        }
+    },
+    {
+        "name": "Shoppers Drug Mart",
+        "Point": {
+            "coordinates": "-79.55690549999997,43.8266818,0.0"
+        }
+    },
+    {
+        "name": "Longo's Weston",
+        "Point": {
+            "coordinates": "-79.55843070000003,43.82696369999999,0.0"
+        }
+    },
+    {
+        "name": "Fortinos",
+        "Point": {
+            "coordinates": "-79.623897,43.7928989,0.0"
+        }
+    },
+    {
+        "name": "Simply Italian",
+        "Point": {
+            "coordinates": "-79.62595929999998,43.7887128,0.0"
+        }
+    },
+    {
+        "name": "Sake Sushi",
+        "Point": {
+            "coordinates": "-79.61762750000003,43.77330970000001,0.0"
+        }
+    },
+    {
+        "name": "Texas Pit",
+        "Point": {
+            "coordinates": "-79.61290710000003,43.7745209,0.0"
+        }
+    },
+    {
+        "name": "Akita Sushi",
+        "Point": {
+            "coordinates": "-79.6033501,43.7760346,0.0"
+        }
+    },
+    {
+        "name": "San Antonio Foods",
+        "Point": {
+            "coordinates": "-79.6114354,43.7739976,0.0"
+        }
+    },
+    {
+        "name": "Sapore's",
+        "Point": {
+            "coordinates": "-79.62369660000002,43.7785173,0.0"
+        }
+    }
+]
+                

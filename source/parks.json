@@ -1,0 +1,57 @@
+[
+    {
+        "name": "The Country Club",
+        "Point": {
+            "coordinates": "-79.58979099999999,43.792663,0.0"
+        }
+    },
+    {
+        "name": "The National Golf Club of Canada",
+        "Point": {
+            "coordinates": "-79.5766324,43.8100532,0.0"
+        }
+    },
+    {
+        "name": "Boyd Conservation Area",
+        "Point": {
+            "coordinates": "-79.58578690000002,43.81193580000001,0.0"
+        }
+    },
+    {
+        "name": "Vaughan Grove Sports Park",
+        "Point": {
+            "coordinates": "-79.60107579999999,43.770185,0.0"
+        }
+    },
+    {
+        "name": "Thackeray Park",
+        "Point": {
+            "coordinates": "-79.58551490000002,43.7625727,0.0"
+        }
+    },
+    {
+        "name": "Kortright Centre for Conservation",
+        "Point": {
+            "coordinates": "-79.58997699999998,43.830512,0.0"
+        }
+    },
+    {
+        "name": "Claireville Conservation Area",
+        "Point": {
+            "coordinates": "-79.6422938,43.7553486,0.0"
+        }
+    },
+    {
+        "name": "Alexander Elisa",
+        "Point": {
+            "coordinates": "-79.5749617,43.7774773,0.0"
+        }
+    },
+    {
+        "name": "Rainbow Creek Park",
+        "Point": {
+            "coordinates": "-79.60599049999996,43.79135119999999,0.0"
+        }
+    }
+]
+                
