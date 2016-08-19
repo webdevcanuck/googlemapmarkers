@@ -1,0 +1,19 @@
+{
+    "name": "Google Map Markers",
+    "version": "1.0.0",
+    "main": ["source/map.js",
+        "demo/index.html"
+    ],
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/webdevcanuck/googlemapmarkers.git"
+    }
+}
